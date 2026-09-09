@@ -39,3 +39,17 @@ This project classifies chest X-ray images into:
 ### **Output**
 3-Class Prediction
 ### **Prototype**
+![image Alt](https://github.com/bmwi7/Medical-Image-Diagnosis/blob/aba74e3e28f93a8eb3b9d08af8fc057a5cf8523f/CV_Project/Screenshot.png)
+
+## **🗃️Dataset Overview**
+Chest X-ray dataset:
+| Property | Details |
+|----------|---------|
+| Total Images | ~5,228 |
+| Classes | COVID / NORMAL / PNEUMONIA |
+| Image format | PNG (Grayscale) |
+| Original size | 256 x 256 |
+### Class count:
+* COVID-19 : 1626
+* NORMAL : 1802
+* PNEUMON :1800
